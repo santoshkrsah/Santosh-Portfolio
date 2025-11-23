@@ -80,7 +80,7 @@ export default function Resume() {
           >
             <strong style={{ color: "#00b4ff" }}>Professional Summary:</strong>
             <p style={{ marginTop: 6, color: "#ccc" }}>
-              4th-year B.Tech AI student experienced in ML, DL, and computer vision.
+              B.Tech AI student experienced in ML, DL, and computer vision.
               Skilled in Python, TensorFlow, PyTorch, and Scikit-learn. Passionate about
               building impactful AI systems and seeking opportunities to contribute to
               real-world AI projects.
