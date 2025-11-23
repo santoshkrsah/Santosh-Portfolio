@@ -61,7 +61,7 @@ Now open 'localhost' in your browser 🚀
 If you’d like to collaborate or just say hi 👋, feel free to reach out!
 
 * 📧 **Email:** [info@santoshkr.in](mailto:info@santoshkr.in)
-* 💼 **LinkedIn:** [linkedin.com/in/c7b293](https://www.linkedin.com/in/santoshkrsah/)
+* 💼 **LinkedIn:** [linkedin.com/santosh](https://www.linkedin.com/in/santoshkrsah/)
 
 ---
 
@@ -74,9 +74,10 @@ Every push to the `main` or `master` branch automatically triggers a fresh build
 
 ### 🏁 License
 
-This project is open source and available under the [MIT License](LICENSE).
-Feel free to fork, use, and build upon it ⭐
+This project is fully open-source and distributed under the [MIT License](LICENSE).
+
+You’re welcome to fork, use, modify, and build upon it freely ⭐
 
 ---
 
-> *“Showcasing my work and passion through technology 💻”*
+> *“Bringing my ideas to life and showcasing my passion through meaningful technology. 💻”*
