@@ -3,6 +3,7 @@ import { motion } from 'framer-motion'
 import { Github, ExternalLink } from 'lucide-react'
 
 const PROJECTS = [
+  /*
   {
     title: '🩺 Mammogram Malignancy Detector',
     desc: 'Hybrid CNN + YOLOv8 ensemble for full-image breast cancer detection with ROI preprocessing and sliding-window inference.',
@@ -59,6 +60,7 @@ const PROJECTS = [
     live: '#',
     code: 'https://github.com/kunjdesai/BreastCancerPrediction'
   }
+    */
 ]
 
 export default function Projects() {
