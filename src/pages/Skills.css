@@ -1,17 +1,17 @@
 /* ---------- Header: smaller, left-aligned, no big gaps ---------- */
 .skills-header {
-  text-align: left;        /* align header to left */
-  margin: 10px 0 12px 4%;     /* remove big top/bottom gaps, small left offset to match orbs */
+  text-align: center;        /* align header to left */
+  margin: 25px 0 12px 2%;     /* remove big top/bottom gaps, small left offset to match orbs */
   padding: 0;
   max-width: calc(100% - 8%); 
 }
 
 .skills-header h2 {
-  font-size: 1.25rem;      /* smaller title */
-  color: #255dd4;
+  font-size: 2.25rem;      /* smaller title */
+  color: #fafafa;
   font-weight: 600;
   margin: 0;               /* remove default margin so there's no extra gap */
-  line-height: 1.05;
+  line-height:  1.7;
 }
 
 .underline {
