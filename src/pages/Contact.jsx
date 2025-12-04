@@ -92,7 +92,7 @@ export default function Contact() {
         transition={{ delay: 0.3, duration: 0.8 }}
         className="contact-subtitle"
       >
-        Whether it’s a new project, a collaboration, or just to say hi — I’d love to hear from you!
+        If you want to discuss a project, collaborate, or simply say hi — I’m always happy to connect! 💌
       </motion.p>
 
       {/* Quick Links */}
@@ -135,7 +135,7 @@ export default function Contact() {
         <input type="text" name="subject" placeholder="Subject" value={form.subject} onChange={handleChange} required />
         <textarea name="message" placeholder="Your Message..." value={form.message} onChange={handleChange} rows="5" required />
         <motion.button type="submit" className="contact-btn" whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
-          🚀 Send Message
+          📤  Send Message
         </motion.button>
 
         {status && <motion.p initial={{ opacity: 0, y: 5 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.3 }} className="contact-status">{status}</motion.p>}

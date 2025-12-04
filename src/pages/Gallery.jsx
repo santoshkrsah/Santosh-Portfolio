@@ -8,13 +8,13 @@ const IMAGES = {
     {
       id: 1,
       caption: "Breathing in the stillness of a fog-kissed forest. 🌲",
-      photos: ["/gallery/matheran.jpg", "/gallery/matheran2.jpg"],
+      photos: ["/gallery-pic/IMG20230913141552.jpg", "/gallery-pic/SeaBeach.jpg"], 
     },
     {
       id: 2,
       caption:
         "Took a weekend off the grid — came back with new ideas and a lighter mind. 💡",
-      photos: ["/gallery-pic/workplace.jpg", "/gallery/workplace2.jpg"],
+      photos: ["/gallery-pic/workplace.jpg", "/gallery-pic/workplace2.jpg"],
     },
   ],
   projects: [
