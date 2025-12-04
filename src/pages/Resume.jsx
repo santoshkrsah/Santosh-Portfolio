@@ -116,7 +116,7 @@ export default function Resume() {
             <li style={{ marginTop: 8 }}>
               <strong>10th Board — +2 School</strong> (JAC Board, 2012)
               <br />
-              <span style={{ color: "#aaa" }}>Percentage: 85%</span>
+              <span style={{ color: "#aaa" }}>Percentage: 61.2%</span>
             </li>
           </ul>
         </motion.div>
@@ -196,7 +196,7 @@ export default function Resume() {
           }}
         >
           {[
-            { name: "🏆 LeetCode", link: "https://leetcode.com/u/Kunj_2803-1/" },
+            { name: "🏆 LeetCode", link: "https://leetcode.com/u/santoshkrsah/" },
             { name: "💻 GitHub", link: "https://github.com/santoshkrsah/" },
             { name: "💼 LinkedIn", link: "https://www.linkedin.com/in/santoshkrsah/" },
           ].map((site) => (
