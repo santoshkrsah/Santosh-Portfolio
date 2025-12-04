@@ -7,40 +7,40 @@ const IMAGES = {
   personal: [
     {
       id: 1,
-      caption: "Lost in the beauty of the misty forest 🌲🌫️",
+      caption: "Breathing in the stillness of a fog-kissed forest. 🌲",
       photos: ["/gallery/matheran.jpg", "/gallery/matheran2.jpg"],
     },
     {
       id: 2,
       caption:
-        "Weekend getaway to clear my head 🌄 Sometimes inspiration strikes when you’re away from the screen.",
-      photos: ["/gallery/lonawala.jpg", "/gallery/lonawala2.jpg"],
+        "Took a weekend off the grid — came back with new ideas and a lighter mind. 💡",
+      photos: ["/gallery/workplace.jpg", "/gallery/workplace2.jpg"],
     },
   ],
   projects: [
     {
       id: 1,
       caption:
-        "It’s an AI-powered tool that understands what someone might be feeling based on their words.",
+        "An AI-powered tool that understands emotions through the way we use words. 🧠",
       photos: ["/gallery/m.png", "/gallery/m2.jpeg"],
     },
     
     {
       id: 1,
       caption:
-        "📂ProfileX - Smart Data Profiler + Preprocessor",
+        "📂 ProfileX — Automated Data Profiling and Preprocessing Tool",
       photos: ["/gallery/profilex.jpeg", "/gallery/profilex2.jpeg","/gallery/profilex3.jpeg", "/gallery/profilex4.jpeg"],
     },
   ],
   achievements: [
     {
       id: 1,
-      caption: "Solved 1000 LeetCode questions 🏆!",
+      caption: "Cracked 500+ LeetCode problems. 🏆!",
       photos: ["/gallery/leet.jpeg"],
     },
     {
       id: 2,
-      caption: "Technical Lead at SCET AI Club 🤖",
+      caption: "Leading technical strategy and AI development at SCET’s AI Club.🤖",
       photos: ["/gallery/techlead.png"],
     },
   ],
