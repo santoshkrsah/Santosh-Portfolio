@@ -32,9 +32,20 @@ const SKILLS = [
   /*{ name: "restapi", logo: "https://cdn-icons-png.flaticon.com/512/919/919825.png" },*/
   { name: "restassured", logo: "https://avatars.githubusercontent.com/u/12774170?s=200&v=4" },
   { name: "maven", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" },
-  { name: "github", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" },  
-
-
+  { name: "github", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" },
+  /*{ name: "browserstack", logo: "https://d1.awsstatic.com/partner-network/logos/browserstack-logo.8f3b6f198f4f4f6f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f.0b7e1b2b8b8b8b8b8b8b8b8b8b8b8b8b8b8b8b8b8b8b8b8b8b8b8b8b8b8b8b8b8b8b8b8b8b8.png" },
+  { name: "testng", logo: "https://testng.org/testng-10/images/testng-logo.png" },*/
+  { name: "cucumber", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" },
+  { name: "jira", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" },
+  { name: "salseforce", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" },
+  /*{ name: "testrail", logo: "https://d2r1yp2w7bby2u.cloudfront.net/wp-content/uploads/2020/03/testrail-logo-blue-300x100.png" },
+  { name: "amplitude", logo: "https://miro.medium.com/v2/resize:fit:1400/1*o3bX0Z4b7r6H8yT6lXvU1A.png" },
+  { name: "devops", logo: "https://cdn-icons-png.flaticon.com/512/919/919825.png" },
+  { name: "firebase", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" },
+  { namee: "rencher", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rancher/rancher-plain.svg" },
+  { name: "tosca", logo: "https://www.tricentis.com/wp-content/uploads/2020/06/tosca-logo.png" },
+  { name: "jmeter", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jmeter/jmeter-original.svg" },
+  { name: "agile", logo: "https://cdn-icons-png.flaticon.com/512/919/919825.png" },*/
 ];
 
 const ROWS = [
