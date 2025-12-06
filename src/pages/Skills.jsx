@@ -39,7 +39,7 @@ const SKILLS = [
   { name: "jira", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" },
   { name: "salseforce", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" },
   { name: "testrail", logo: "https://www.testrail.com/wp-content/uploads/2023/03/testrail-icon.svg" },
-  { name: "amplitude", logo: "https://drive.google.com/u/0/drive-viewer/AKGpihY3n7JMrDSQ9x2l5ql5zMZx80h9DNGokDNlKJvdTLvgjQh01vaBy8s5A-M05c9QTBFftLgnhTAYkakHB_zCcGTdtB_VZbuuHJA=s2560?auditContext=forDisplay" },
+  /*{ name: "amplitude", logo: "https://drive.google.com/u/0/drive-viewer/AKGpihY3n7JMrDSQ9x2l5ql5zMZx80h9DNGokDNlKJvdTLvgjQh01vaBy8s5A-M05c9QTBFftLgnhTAYkakHB_zCcGTdtB_VZbuuHJA=s2560?auditContext=forDisplay" },*/
   { name: "devops", logo: "https://cdn.worldvectorlogo.com/logos/devops-2.svg" },
   { name: "firebase", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" },
   { name: "rancher", logo: "https://cdn.worldvectorlogo.com/logos/rancher.svg" },

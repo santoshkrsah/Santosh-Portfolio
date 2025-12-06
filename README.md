@@ -75,9 +75,9 @@ Every push to the `main` or `master` branch automatically triggers a fresh build
 
 ---
 
-### 🏁 License
+### 🏁 License-style
 
-You’re welcome to use, modify, and build upon it freely ⭐
+You’re free to use, modify, and build upon this in any way that suits your needs. ⭐
 
 ---
 
